@@ -1,7 +1,5 @@
-# Wilian Guamán Cuenca
+# WilianGuaman.github.io
 
-Personal academic and professional website.
+Academic and professional website of Wilian Guamán Cuenca.
 
-**Website:** https://wilianguaman.github.io/
-
-The site presents research, projects, publications, teaching, professional experience and outreach activities in electrical engineering and energy systems.
+Public site: https://wilianguaman.github.io/
