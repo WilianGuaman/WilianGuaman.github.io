@@ -1,0 +1,3 @@
+
+const button=document.querySelector('.menu-button');const nav=document.querySelector('.nav');if(button&&nav){button.addEventListener('click',()=>{const open=nav.classList.toggle('open');button.setAttribute('aria-expanded',String(open));});}
+const filters=document.querySelectorAll('[data-filter]');const pubs=document.querySelectorAll('.pub-item');filters.forEach(btn=>btn.addEventListener('click',()=>{filters.forEach(x=>x.classList.remove('active'));btn.classList.add('active');const value=btn.dataset.filter;pubs.forEach(item=>{item.hidden=value!=='all'&&item.dataset.year!==value&&item.dataset.type!==value;});}));
