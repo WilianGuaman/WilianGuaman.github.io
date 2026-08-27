@@ -1,5 +1,3 @@
-# WilianGuaman.github.io
+# Wilian Guamán Cuenca
 
-Academic and professional website of Wilian Guamán Cuenca.
-
-Public site: https://wilianguaman.github.io/
+Academic and professional website.
